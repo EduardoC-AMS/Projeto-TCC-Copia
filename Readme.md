@@ -19,6 +19,7 @@ $ git push -u origin main $ // Enviar Arquivos do Standing ao GitHub.
 
 %% Alternado/Ajustando Arquivos %%
 
+$ git add $ // Adicionar/Mandar arquivos em Standing.
 $ git commit -m "" $ // Fazer commit. 
 $ git push origin main $ // Enviar Arquivos do Standing ao GitHub. ## Já ter feito o "First Commit"
 
